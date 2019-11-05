@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /private/var/www/html/AppReact/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /private/var/www/html/AppReact/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /private/var/www/html/AppReact/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /private/var/www/html/AppReact/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/85b132c4ef419be2cf61addc66793f5e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/53f34633ade4e84f07ef74448c2e70c3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/653af359a21e8bc639f5ea5fb891f656/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/6a966159b231d9a018da6654822bad23/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2487958a87e538d0f5cbb0975c80c04c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/1d344c5c6c615febe0ac1f60beb84d3e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/32a86827163b37236fd02d1e8e56ecb2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/de551780d12e6394066c98a965ffca79/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/4ee2c31f421776f059f98c762822655f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2609735074eeee696a40b68e9e153c41/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e1adb2efac7a3f4932563daaa62cb932/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/d07f787f988d4d47654c1207698a3723/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/82daf784267616bfc7f445027a3229fb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78930a13b7aed59e753f4c25a31b6919/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f99bcba708013e8ddd719cae24759203/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef2db05ecb4038ad6eb73e8027899973/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef4261e14ec7f434c319cc3832928a01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ac6d4804c76e47758e10f547bde8bdf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/0cd60a96066abad303702aa5dc7ca258/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f2b48955f3c78a05b944269d213e2310/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/980978678432b42fa77a42da92d858fd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/7c8bf13847c9f154aa96525539bec588/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5e876ff08bf0fe48aaacb14301c2e5ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/924b27670fd1a2d1fcc4d1818de69742/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5f9c6fe0d312ba9aa467be2c1e335dbb/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/df67579e7aecf0c9a04f259080ad233d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a03980acfaed379cd0eebaf5c0c2e909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b2fa4cd8cd8797e2088a1e41477ebb2a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a5dcbec7df250f4bbac044f6259210aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b3c9bf82173dfe5586ff7160dc5f42b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/77951a8976a35d0997673a0bdd608e99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78feb9d828bfe08d3632e15385d789b3/AndroidManifest.xml:2:1-9:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/85b132c4ef419be2cf61addc66793f5e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/85b132c4ef419be2cf61addc66793f5e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/d07f787f988d4d47654c1207698a3723/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/d07f787f988d4d47654c1207698a3723/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5f9c6fe0d312ba9aa467be2c1e335dbb/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5f9c6fe0d312ba9aa467be2c1e335dbb/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.appreact.MainActivity
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /private/var/www/html/AppReact/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /private/var/www/html/AppReact/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /private/var/www/html/AppReact/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /private/var/www/html/AppReact/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /private/var/www/html/AppReact/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /private/var/www/html/AppReact/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /private/var/www/html/AppReact/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /private/var/www/html/AppReact/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/85b132c4ef419be2cf61addc66793f5e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.1] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/85b132c4ef419be2cf61addc66793f5e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/53f34633ade4e84f07ef74448c2e70c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/53f34633ade4e84f07ef74448c2e70c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/653af359a21e8bc639f5ea5fb891f656/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/653af359a21e8bc639f5ea5fb891f656/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/6a966159b231d9a018da6654822bad23/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/6a966159b231d9a018da6654822bad23/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2487958a87e538d0f5cbb0975c80c04c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2487958a87e538d0f5cbb0975c80c04c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/1d344c5c6c615febe0ac1f60beb84d3e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/1d344c5c6c615febe0ac1f60beb84d3e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/32a86827163b37236fd02d1e8e56ecb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/32a86827163b37236fd02d1e8e56ecb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/de551780d12e6394066c98a965ffca79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/de551780d12e6394066c98a965ffca79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/4ee2c31f421776f059f98c762822655f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/4ee2c31f421776f059f98c762822655f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2609735074eeee696a40b68e9e153c41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/2609735074eeee696a40b68e9e153c41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e1adb2efac7a3f4932563daaa62cb932/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e1adb2efac7a3f4932563daaa62cb932/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/d07f787f988d4d47654c1207698a3723/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/d07f787f988d4d47654c1207698a3723/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/82daf784267616bfc7f445027a3229fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/82daf784267616bfc7f445027a3229fb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78930a13b7aed59e753f4c25a31b6919/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78930a13b7aed59e753f4c25a31b6919/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f99bcba708013e8ddd719cae24759203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f99bcba708013e8ddd719cae24759203/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef2db05ecb4038ad6eb73e8027899973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef2db05ecb4038ad6eb73e8027899973/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef4261e14ec7f434c319cc3832928a01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ef4261e14ec7f434c319cc3832928a01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ac6d4804c76e47758e10f547bde8bdf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/ac6d4804c76e47758e10f547bde8bdf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/0cd60a96066abad303702aa5dc7ca258/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/0cd60a96066abad303702aa5dc7ca258/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f2b48955f3c78a05b944269d213e2310/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/f2b48955f3c78a05b944269d213e2310/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/980978678432b42fa77a42da92d858fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/980978678432b42fa77a42da92d858fd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/7c8bf13847c9f154aa96525539bec588/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/7c8bf13847c9f154aa96525539bec588/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/e03fe2a0d159837b2de910539c6b7747/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5e876ff08bf0fe48aaacb14301c2e5ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5e876ff08bf0fe48aaacb14301c2e5ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/924b27670fd1a2d1fcc4d1818de69742/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/924b27670fd1a2d1fcc4d1818de69742/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5f9c6fe0d312ba9aa467be2c1e335dbb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/5f9c6fe0d312ba9aa467be2c1e335dbb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/df67579e7aecf0c9a04f259080ad233d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/df67579e7aecf0c9a04f259080ad233d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a03980acfaed379cd0eebaf5c0c2e909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a03980acfaed379cd0eebaf5c0c2e909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b2fa4cd8cd8797e2088a1e41477ebb2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b2fa4cd8cd8797e2088a1e41477ebb2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a5dcbec7df250f4bbac044f6259210aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/a5dcbec7df250f4bbac044f6259210aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b3c9bf82173dfe5586ff7160dc5f42b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/b3c9bf82173dfe5586ff7160dc5f42b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/77951a8976a35d0997673a0bdd608e99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/77951a8976a35d0997673a0bdd608e99/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78feb9d828bfe08d3632e15385d789b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/killderycoelho/.gradle/caches/transforms-2/files-2.1/78feb9d828bfe08d3632e15385d789b3/AndroidManifest.xml:5:5-7:41
+INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /private/var/www/html/AppReact/android/app/src/main/AndroidManifest.xml
+		INJECTED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /private/var/www/html/AppReact/android/app/src/debug/AndroidManifest.xml:5:22-75

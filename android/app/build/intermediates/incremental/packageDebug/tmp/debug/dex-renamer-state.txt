@@ -1,0 +1,4 @@
+#Tue Nov 05 09:49:49 BRT 2019
+base.0=/private/var/www/html/AppReact/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
